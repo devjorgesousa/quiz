@@ -1,5 +1,5 @@
 # Quiz
-#### Jogo de Perguntas e Respostas com HTML, CSS e JS
+#### Jogo de Perguntas e Respostas 
 
 ### Wireframe
 O Wireframe deste projeto considera não apenas computadores pessoais, mas também dispositivos móveis, veja abaixo a imagem do Wireframe.
