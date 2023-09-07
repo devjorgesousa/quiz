@@ -20,7 +20,7 @@ O Wireframe deste projeto considera não apenas computadores pessoais, mas tamb�
 
 git clone https://github.com/devjorgesousa/quiz.git
 
-2ª Acesse a pasta do projeto no terminal/cmd ou no Visual Studio Code
+2ª Acesse a pasta do projeto no Visual Studio Code após descompactar o arquivo quiz-main.zip
 
 cd quiz-main
 
